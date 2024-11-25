@@ -1,0 +1,11 @@
+in{s<1351:px,qqz}
+  px{a<2006:qkq,m>2090:A,rfg}
+    qkq{x<1416:A,crn}
+      crn{x>2662:A,R}
+    rfg{s<537:gd,x>2440:R,A}
+      gd{a>3333:R,R}
+  qqz{s>2770:qs,m<1801:hdj,R}
+    qs{s>3448:A,lnx}
+      lnx{m>1548:A,A}
+    hdj{m>838:A,pv}
+      pv{a>1716:R,A}
